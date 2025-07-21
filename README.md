@@ -1,7 +1,7 @@
 ## Pretrained 4D Gaussian Videos
 This repository serves as a public http server for online streaming of 4D Gaussian Videos.
 
-See ["4D Gaussian Video with Motion Layering"](https://github.com/turandai/4d_gaussian_video) for details.
+See ["4D Gaussian Video with Motion Layering"](https://turandai.github.io/projects/4d_gaussian_video/) for details.
 
 
 ### BibTex
